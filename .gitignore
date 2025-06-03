@@ -9,7 +9,8 @@
 .history
 .svn/
 migrate_working_dir/
-android/unityLibrary/*
+android/unityLibrary/build/*
+android/unityLibrary/src/*
 unity/
 # IntelliJ related
 *.iml
